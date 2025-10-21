@@ -58,7 +58,7 @@ A collection of small C# exercises and logic challenges — including a simple *
 
 ![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroDev&show_icons=true&theme=transparent&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroDev&layout=compact&theme=transparent&hide_title=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaopedrom&layout=compact&theme=transparent&hide_title=false)
 
 </div>
 
