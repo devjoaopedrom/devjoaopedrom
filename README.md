@@ -30,7 +30,7 @@ Currently, I'm focusing on creating **clean, scalable APIs** with **.NET and C#*
 
 ## 🧩 Featured Projects
 
-### 💼 [DevFreelaAPI](https://github.com/devjoaopedrom/DevFreelaAPI)
+### 💼 [DevFreelaAPI](https://github.com/devjoaopedrom/DevFreela)
 A **freelancer management platform API**, designed to simulate a real-world marketplace where clients can create projects and developers can apply to work on them.  
 Built with **ASP.NET Core**, **JWT Authentication**, **CQRS**, and **Entity Framework**.
 
