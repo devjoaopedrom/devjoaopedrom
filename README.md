@@ -21,7 +21,7 @@ Currently, I'm focusing on creating **clean, scalable APIs** with **.NET and C#*
 
 ## 🚀 About Me
 
-- 💼 **IT Security Analyst** at a credit cooperative in Brazil  
+- 💼 **IT Analyst** at a credit cooperative in Brazil  
 - 🧠 Participant of the **.NET Start Mentorship** by *Next Wave Education* (led by Luis Felipe)  
 - ⚙️ Currently improving my skills in **.NET 8**, **Entity Framework**, and **Clean Architecture**  
 - 📚 Always exploring how to turn ideas into solid, maintainable software
@@ -30,22 +30,23 @@ Currently, I'm focusing on creating **clean, scalable APIs** with **.NET and C#*
 
 ## 🧩 Featured Projects
 
-### 🗓️ [BusinessAgenda](https://github.com/JoaoPedroDev/BusinessAgenda)
+### 💼 [DevFreelaAPI](https://github.com/devjoaopedrom/DevFreelaAPI)
+A **freelancer management platform API**, designed to simulate a real-world marketplace where clients can create projects and developers can apply to work on them.  
+Built with **ASP.NET Core**, **JWT Authentication**, **CQRS**, and **Entity Framework**.
+
+### 🗓️ [BusinessAgenda](https://github.com/devjoaopedrom/BusinessAgenda)
 A **commercial meeting scheduler API** built with **Clean Architecture**, **CQRS**, and **Entity Framework**.  
 Managers can schedule, edit, or cancel meetings, while supervisors can view and manage agendas.
 
-### 📚 [LibraryApp](https://github.com/JoaoPedroDev/LibraryApp)
+### 📚 [LibraryApp](https://github.com/devjoaopedrom/LibraryApp)
 A **console application** for book management — registration, search, and categorization — created to practice **object-oriented design** and **data persistence**.
-
-### ⏱️ [Csharp-Exercise](https://github.com/JoaoPedroDev/Csharp-Exercise/tree/stopwatch)
-A collection of small C# exercises and logic challenges — including a simple **console stopwatch app**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C#, SQL, Java  
-- **Frameworks & Tools:** ASP.NET Core, Entity Framework, LINQ, SendGrid  
+- **Languages:** C#, SQL, JavaScript 
+- **Frameworks & Tools:** ASP.NET Core, Entity Framework
 - **Architecture:** Clean Architecture, CQRS, Repository Pattern  
 - **Databases:** SQL Server, MongoDB (learning)  
 - **Others:** Git, Docker, Postman, REST APIs  
@@ -56,7 +57,7 @@ A collection of small C# exercises and logic challenges — including a simple *
 
 <div align="center">
 
-![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroDev&show_icons=true&theme=transparent&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true)
+![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjoaopedrom&show_icons=true&theme=transparent&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaopedrom&layout=compact&theme=transparent&hide_title=false)
 
@@ -74,9 +75,9 @@ A collection of small C# exercises and logic challenges — including a simple *
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/joaopedro/)  
-- 🧠 [GitHub Projects](https://github.com/JoaoPedroDev)  
-- ✉️ Reach me at **joaopedromgomes@outlook.com*
+- 💼 [LinkedIn](https://www.linkedin.com/in/joao-pedro-moreira/)  
+- 🧠 [GitHub Projects](https://github.com/devjoaopedrom)  
+- ✉️ Reach me at **joaopedro@example.com**
 
 ---
 
