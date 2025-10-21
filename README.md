@@ -77,7 +77,7 @@ A **console application** for book management — registration, search, and cate
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/joao-pedro-moreira/)  
 - 🧠 [GitHub Projects](https://github.com/devjoaopedrom)  
-- ✉️ Reach me at **joaopedro@example.com**
+- ✉️ Reach me at **joaopmoreira.dev@gmail.com**
 
 ---
 
